@@ -1,5 +1,10 @@
-### Hi there! My name is Anna 👋 
+## Hi there! My name is Anna 👋 
+- I'm junior web-developer from Petrozavodsk.
+- I'm looking for interesting and inspiring job.
+- I'm ready to learn and make contribution to team's work. 
 
+## Technoligies I work with 🔨
+HTML CSS JS React Git 
 <!--
 **AnnaZakharovaPtz/AnnaZakharovaPtz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
