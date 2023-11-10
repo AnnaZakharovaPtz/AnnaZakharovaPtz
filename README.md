@@ -4,7 +4,7 @@
 - I'm ready to learn and make contribution to team's work. 
 
 ## Technoligies I work with 🔨
-HTML CSS JS React Git 
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,git)](https://skillicons.dev)
 <!--
 **AnnaZakharovaPtz/AnnaZakharovaPtz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
